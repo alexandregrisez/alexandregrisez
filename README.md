@@ -28,6 +28,8 @@
 ### Other
 <p align="left">
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/ollama.png" width="40" alt="Ollama" title="Ollama"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-libreoffice.svg" width="40" alt="LibreOffice Basic" title="LibreOffice Basic"/>
+  <img src="https://www.svgrepo.com/show/374159/vba.svg" width="40" alt="VBA" title="VBA"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" alt="LaTeX" title="LaTeX"/>
   
 </p>
