@@ -6,7 +6,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" alt="C" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin" title="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" alt="R" title="R"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" title="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" title="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="Javascript" title="Javascript"/>
@@ -27,6 +26,7 @@
 
 ### Other
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" alt="R" title="R"/>
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/ollama.png" width="40" alt="Ollama" title="Ollama"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-libreoffice.svg" width="40" alt="LibreOffice Basic" title="LibreOffice Basic"/>
   <img src="https://www.svgrepo.com/show/374159/vba.svg" width="40" alt="VBA" title="VBA"/>
