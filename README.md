@@ -28,6 +28,8 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" alt="R" title="R"/>
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/ollama.png" width="40" alt="Ollama" title="Ollama"/>
+  <img src="https://qdrant.tech/img/brand-resources-logos/qdrant-brandmark-red.svg" width="40" alt="Qdrant" title="Qdrant"/>
+  <img src="https://docs.chainlit.io/favicon.svg" width="40" alt="Chainlit" title="Chainlit"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-libreoffice.svg" width="40" alt="LibreOffice Basic" title="LibreOffice Basic"/>
   <img src="https://www.svgrepo.com/show/374159/vba.svg" width="40" alt="VBA" title="VBA"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" alt="LaTeX" title="LaTeX"/>
