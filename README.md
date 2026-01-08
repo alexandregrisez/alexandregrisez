@@ -11,6 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="Javascript" title="Javascript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" title="PHP"/>
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="40" alt="MySQL" title="MySQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB"/>
 </p>
 
@@ -32,6 +33,7 @@
   <img src="https://docs.chainlit.io/favicon.svg" width="40" alt="Chainlit" title="Chainlit"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-libreoffice.svg" width="40" alt="LibreOffice Basic" title="LibreOffice Basic"/>
   <img src="https://www.svgrepo.com/show/374159/vba.svg" width="40" alt="VBA" title="VBA"/>
+  <img src="https://www.maltego.com/images/uploads/stix-logo.png" width="40" alt="STIX" title="STIX"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" alt="LaTeX" title="LaTeX"/>
   
 </p>
